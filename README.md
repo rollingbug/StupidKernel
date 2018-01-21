@@ -8,3 +8,6 @@ A very simple x86 OS kernel prototype I wrote long long time ago.
     - Floppy disc driver and FAT12 file system.  
     - Keyboard driver.  
     - Process scheduler.  
+  
+  
+![Kernel picture](my_kernel1.jpg)
